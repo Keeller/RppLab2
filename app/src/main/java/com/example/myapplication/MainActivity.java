@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void CallMainAndDie(Keys[] keys)
     {
-        Intent intent=new Intent(this,Main2Activity.class);
+        Intent intent=new Intent(this,Main3Activity.class);
         intent.putExtra("keys",keys);
         startActivity(intent);
         finish();

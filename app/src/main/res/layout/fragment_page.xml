@@ -4,8 +4,8 @@
 
     <ImageView
         android:id="@+id/graphic"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:layout_centerInParent="true"
         android:adjustViewBounds="true"
         android:background="#FFFFFF"
